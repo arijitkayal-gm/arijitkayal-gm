@@ -1,4 +1,4 @@
-# 👨‍💻 Arijit Kayal
+# Arijit Kayal
 
 I am a dedicated web developer with a strong passion for creating dynamic and responsive web applications. Although I do not yet have formal industry experience, I have developed a solid foundation in both frontend and backend development through self-initiated and academic projects.
 
@@ -11,7 +11,7 @@ I am a dedicated web developer with a strong passion for creating dynamic and re
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
@@ -28,19 +28,18 @@ I am a dedicated web developer with a strong passion for creating dynamic and re
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=arijitkayal-gm&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arijitkayal-gm&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arijitkayal-gm&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arijitkayal-gm/arijitkayal-gm/main/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arijitkayal-gm/arijitkayal-gm/main/dist/github-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/arijitkayal-gm/arijitkayal-gm/main/dist/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arijitkayal-gm/arijitkayal-gm/main/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arijitkayal-gm/arijitkayal-gm/main/github-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/arijitkayal-gm/arijitkayal-gm/main/github-snake.svg">
 </picture>
 
 
